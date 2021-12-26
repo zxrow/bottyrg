@@ -4122,7 +4122,15 @@ if (!isGroup) return reply(lang.onlygc())
                     alpha.sendMessage(from, thumbb ,image, anuu)
 				}
 				await limitAdd(sender, limit)
-					break   
+		 			break
+        case 'exiff':
+                    if (!isOwner && !mek.key.fromMe) return sticOwner(from)
+					const exifff = `${args.join(' ')}`
+					const namaPack = exifff.split('|')[0]
+					const authorPack = exifff.split('|')[1]
+					exif.create(namaPack, authorPack)
+					await reply('Done gan')
+				break
 	case 'inspect':
 		            try {
 		            if (!isUrl(args[0]) && !args[0].includes('whatsapp.com')) return reply(lang.erorLink())
@@ -5791,13 +5799,6 @@ break
 				   jds.push(C1.jid)
 				   mentions(D1, jds, true)
 				   break
-		case 'exif':
-             if (!isOwner) return  reply(mess.only.owner)
-             if (!q) return reply(mess.wrongFormat)
-             if (!arg.split('|')) return reply(`Penggunaan ${prefix}exif nama|author`)
-             exif.create(arg.split('|')[0], arg.split('|')[1])
-             reply('sukses')
-             break
 				default:
 				
 if(subscribezeeoneofc == 'qr_gopay1'){
